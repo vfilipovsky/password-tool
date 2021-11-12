@@ -1,0 +1,13 @@
+from typing import Final
+
+EVENT_EXIT: Final = 'Exit'
+EVENT_GENERATE: Final = 'Generate'
+EVENT_VALIDATE: Final = 'Validate'
+
+KEY_NUMBERS: Final = 'NUMBERS'
+KEY_ASCII: Final = 'ASCII'
+KEY_LENGTH: Final = 'LENGTH'
+KEY_RESULT: Final = 'RESULT'
+KEY_SYMBOLS: Final = 'SYMBOLS'
+KEY_VALIDATION: Final = 'VALIDATION'
+KEY_VALIDATION_RESULT: Final = 'VALIDATION_RESULT'
